@@ -1,0 +1,4 @@
+cron:
+- description: pifreak
+  url: /
+  schedule: every day 15:14
